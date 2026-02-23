@@ -1,3 +1,4 @@
 # Experiments
 
-A place to mess around
+Small, focused experiments validating mathematical and spatial concepts.
+
