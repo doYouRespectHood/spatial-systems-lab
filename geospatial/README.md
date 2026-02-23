@@ -1,3 +1,4 @@
-# geospatial
+# Geospatial
 
-For code related to geospatial concepts
+Coordinate system conversions and terrain processing utilities.
+
